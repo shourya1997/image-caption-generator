@@ -1,4 +1,4 @@
-# Neural Image Captioning
+# Image Captioning Generator
 Experiments with Neural Image captioning in Keras based on [Show and Tell](https://arxiv.org/abs/1411.4555).
 
 # Python Environment
